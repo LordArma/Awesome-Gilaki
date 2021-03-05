@@ -97,7 +97,7 @@
 <br/>
 
 
-## وبسایت
+## وب سایت
 [تقویم دیلمی](https://giltime.ir/)
 <br/>
 [کیبورد گیلکی](https://gilakikeyboard.ir/)
