@@ -3,18 +3,27 @@
 
 ## تقویم دیلمی
 [مبدل تاریخ از / به دیلمی به / از جلالی به زبان Python](https://github.com/Jangal/python-dilami-calendar)
+<br/>
 [مبدل تاریخ از / به دیلمی به / از جلالی به زبان C++](https://github.com/Jangal/Dilami-Calendar-C-)
+<br/>
 [مبدل تاریخ از / به دیلمی به / از جلالی با .Net](https://github.com/Jangal/Dilami-Calendar-.Net)
+<br/>
 [مبدل تاریخ از / به دیلمی به / از جلالی برای Arduino](https://github.com/Jangal/Dilami-Calendar-Arduino)
+<br/>
+
 
 
 ## فهرست کلمه‌ها
 [۱۰۰۰ کلمه پر کاربر گیلکی](https://github.com/LordArma/Top-1000-Words-in-Gilaki)
+<br/>
+
 
 
 ## وبسایت
 [تقویم دیلمی](https://giltime.ir/)
+<br/>
 [کیبورد گیلکی](https://gilakikeyboard.ir/)
+<br/>
 
 
 ## اپلیکیشن موبایل
