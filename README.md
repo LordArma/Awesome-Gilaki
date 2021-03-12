@@ -67,6 +67,8 @@
 ## زبان و ادبیات
 [فهرست ۱۰۰۰ کلمه پر کاربر گیلکی](https://github.com/LordArma/Top-1000-Words-in-Gilaki)
 <br/>
+[اسکریپت پایتون سازنده فهرست ۱۰۰۰ کلمه پر کاربر گیلکی](https://github.com/LordArma/Top-1000-Words-in-Gilaki-Helper)
+<br/>
 فهرست کلمات رکیک گیلکی
 <br/>
 فهرست نام‌های گیلکی
